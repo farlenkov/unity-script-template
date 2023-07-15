@@ -1,5 +1,5 @@
 {
-    "name": "Game.ScriptTemplate.Editor",
+    "name": "UnityScriptTemplate.Editor",
     "rootNamespace": "UnityScriptTemplate",
     "references": [
         "GUID:b21f4b1d6baf90041aa6a65bca236026"
